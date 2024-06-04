@@ -1,0 +1,246 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main3",
+            "request": "launch",
+            "mainClass": "Main3",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "main2",
+            "request": "launch",
+            "mainClass": "main2",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j1",
+            "request": "launch",
+            "mainClass": "j1",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j4",
+            "request": "launch",
+            "mainClass": "j4",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j5",
+            "request": "launch",
+            "mainClass": "j5",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j6",
+            "request": "launch",
+            "mainClass": "j6",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j7",
+            "request": "launch",
+            "mainClass": "j7",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j8",
+            "request": "launch",
+            "mainClass": "j8",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j10",
+            "request": "launch",
+            "mainClass": "j10",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j11",
+            "request": "launch",
+            "mainClass": "j11",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j12",
+            "request": "launch",
+            "mainClass": "j12",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j13",
+            "request": "launch",
+            "mainClass": "j13",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j14",
+            "request": "launch",
+            "mainClass": "j14",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j15",
+            "request": "launch",
+            "mainClass": "j15",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j16",
+            "request": "launch",
+            "mainClass": "j16",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j17",
+            "request": "launch",
+            "mainClass": "j17",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j18",
+            "request": "launch",
+            "mainClass": "j18",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j20",
+            "request": "launch",
+            "mainClass": "j20",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j21",
+            "request": "launch",
+            "mainClass": "j21",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j22",
+            "request": "launch",
+            "mainClass": "j22",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j23",
+            "request": "launch",
+            "mainClass": "j23",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j24",
+            "request": "launch",
+            "mainClass": "j24",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "demo1",
+            "request": "launch",
+            "mainClass": "demo1",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "j26",
+            "request": "launch",
+            "mainClass": "j26",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "p7",
+            "request": "launch",
+            "mainClass": "p7",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "selectionsort",
+            "request": "launch",
+            "mainClass": "selectionsort",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Blind",
+            "request": "launch",
+            "mainClass": "codeeatsleep.Blind",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "bubblesort",
+            "projectName": ""
+        },
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
